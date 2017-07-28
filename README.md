@@ -19,3 +19,5 @@ Unity and Google Tnago Project
 * Unityで`Edit`→`Preferences`→`External Tools`からAndroid SDKとJDKのインストール場所を指定する
 * Unity Projectをバージョン管理したい場合は、`Edit`→`Project Settings`→`Editor`から`Version Control`→`Mode`を`Visible Meta Files`に変更し、`Asset Serialization`→`Mode`を`Force Text`に変更
 
+## 注意
+　Google Tango搭載端末以外でRunすると`.apk`はインストールされますが、起動時にエラーが起きて強制終了します。
