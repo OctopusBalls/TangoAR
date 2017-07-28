@@ -1,23 +1,23 @@
-# TangoAR
+ï»¿# TangoAR
 Unity and Google Tnago Project
 
-## ŠJ”­ŠÂ‹«
+## é–‹ç™ºç’°å¢ƒ
 * Unity 2017.1.0f3 (64-bit)
 * Tango SDK for Unity
 * Visual Studio 2017
 
-## “±“ü•û–@
-* **Unity**‚ğ`Visual Studio 2017 Tools for Unity Package`‚Éƒ`ƒFƒbƒN‚ğ“ü‚ê‚ÄƒCƒ“ƒXƒg[ƒ‹
-* Visual Studio Installer‚ğŠJ‚«AƒCƒ“ƒXƒg[ƒ‹Ï‚İ‚ÌVisual Studio‚Ì`•ÏX`¨`ƒ[ƒNƒ[ƒh`‚©‚ç`C++‚É‚æ‚éƒ‚ƒoƒCƒ‹ŠJ”­`‚ğ‘I‘ğ‚µA**Android SDK**‚â**JDK**‚ğƒCƒ“ƒXƒg[ƒ‹
-* Unity‚ÉV‹K3D Project‚ğì¬ŒãA**Google Tango SDK**‚ÌƒpƒbƒP[ƒW‚ğì¬‚µ‚½ƒvƒƒWƒFƒNƒg‚ÉƒCƒ“ƒXƒg[ƒ‹
+## å°å…¥æ–¹æ³•
+* **Unity**ã‚’`Visual Studio 2017 Tools for Unity Package`ã«ãƒã‚§ãƒƒã‚¯ã‚’å…¥ã‚Œã¦ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
+* Visual Studio Installerã‚’é–‹ãã€ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã®Visual Studioã®`å¤‰æ›´`â†’`ãƒ¯ãƒ¼ã‚¯ãƒ­ãƒ¼ãƒ‰`ã‹ã‚‰`C++ã«ã‚ˆã‚‹ãƒ¢ãƒã‚¤ãƒ«é–‹ç™º`ã‚’é¸æŠã—ã€**Android SDK**ã‚„**JDK**ã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
+* Unityã«æ–°è¦3D Projectã‚’ä½œæˆå¾Œã€**Google Tango SDK**ã®ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã‚’ä½œæˆã—ãŸãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã«ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
 
-## ŠÂ‹«İ’è
-* ƒpƒXü‚è‚ÍVisual Studio Installer‚ÅAndroid SDK‚ğƒCƒ“ƒXƒg[ƒ‹‚µ‚½Û‚É‚Ù‚Æ‚ñ‚Çİ’è‚ª‚È‚³‚ê‚Ä‚¢‚é‚Ì‚ÅÈ—ª
-* Unity‚Å`File`¨`Build Settings`¨`Android`‚ğ‘I‘ğ‚µ`Switch Platform`‚Åƒrƒ‹ƒh‘ÎÛ‚ğAndroid‚Éİ’è
-* `Player Settings...`‚©‚çƒAƒ“ƒhƒƒCƒhƒ}[ƒN‚ğƒNƒŠƒbƒN‚µA`Other Settings`¨`Package Name`‚ğ`com.unity3d.[ƒAƒvƒŠ–¼]`‚É•ÏX
-* `Other Settings`¨`Minimum API Level`‚ğ`Android 4.2 'Jelly Bean'(API Level 17)`‚Éİ’è
-* Unity‚Å`Edit`¨`Preferences`¨`External Tools`‚©‚çAndroid SDK‚ÆJDK‚ÌƒCƒ“ƒXƒg[ƒ‹êŠ‚ğw’è‚·‚é
-* Unity Project‚ğƒo[ƒWƒ‡ƒ“ŠÇ—‚µ‚½‚¢ê‡‚ÍA`Edit`¨`Project Settings`¨`Editor`‚©‚ç`Version Control`¨`Mode`‚ğ`Visible Meta Files`‚É•ÏX‚µA`Asset Serialization`¨`Mode`‚ğ`Force Text`‚É•ÏX
+## ç’°å¢ƒè¨­å®š
+* ãƒ‘ã‚¹å‘¨ã‚Šã¯Visual Studio Installerã§Android SDKã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ãŸéš›ã«ã»ã¨ã‚“ã©è¨­å®šãŒãªã•ã‚Œã¦ã„ã‚‹ã®ã§çœç•¥
+* Unityã§`File`â†’`Build Settings`â†’`Android`ã‚’é¸æŠã—`Switch Platform`ã§ãƒ“ãƒ«ãƒ‰å¯¾è±¡ã‚’Androidã«è¨­å®š
+* `Player Settings...`ã‹ã‚‰ã‚¢ãƒ³ãƒ‰ãƒ­ã‚¤ãƒ‰ãƒãƒ¼ã‚¯ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã€`Other Settings`â†’`Package Name`ã‚’`com.unity3d.[ã‚¢ãƒ—ãƒªå]`ã«å¤‰æ›´
+* `Other Settings`â†’`Minimum API Level`ã‚’`Android 4.2 'Jelly Bean'(API Level 17)`ã«è¨­å®š
+* Unityã§`Edit`â†’`Preferences`â†’`External Tools`ã‹ã‚‰Android SDKã¨JDKã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«å ´æ‰€ã‚’æŒ‡å®šã™ã‚‹
+* Unity Projectã‚’ãƒãƒ¼ã‚¸ãƒ§ãƒ³ç®¡ç†ã—ãŸã„å ´åˆã¯ã€`Edit`â†’`Project Settings`â†’`Editor`ã‹ã‚‰`Version Control`â†’`Mode`ã‚’`Visible Meta Files`ã«å¤‰æ›´ã—ã€`Asset Serialization`â†’`Mode`ã‚’`Force Text`ã«å¤‰æ›´
 
-## ’ˆÓ
-@Google Tango“‹Ú’[––ˆÈŠO‚ÅRun‚·‚é‚Æ`.apk`‚ÍƒCƒ“ƒXƒg[ƒ‹‚³‚ê‚Ü‚·‚ªA‹N“®‚ÉƒGƒ‰[‚ª‹N‚«‚Ä‹­§I—¹‚µ‚Ü‚·B
+## æ³¨æ„
+ã€€Google Tangoæ­è¼‰ç«¯æœ«ä»¥å¤–ã§Runã™ã‚‹ã¨`.apk`ã¯ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã•ã‚Œã¾ã™ãŒã€èµ·å‹•æ™‚ã«ã‚¨ãƒ©ãƒ¼ãŒèµ·ãã¦å¼·åˆ¶çµ‚äº†ã—ã¾ã™ã€‚
